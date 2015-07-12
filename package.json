@@ -1,0 +1,20 @@
+{
+    "name": "Reflux-example",
+    "version": "0.0.1",
+    "description": "An example app with React and Reflux",
+    "author": "Ilya Suhodolskiy <ilya.suhodolskiy@gmail.com>",
+    "homepage": "https://github.com/IlyaSuhodolskiy/reflux-example",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IlyaSuhodolskiy/reflux-example.git"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-browserify": "^0.5.1",
+        "gulp-concat": "^2.6.0",
+        "react": "^0.13.3",
+        "reactify": "^1.1.1",
+        "reflux": "^0.2.9"
+    },
+    "license": "MIT"
+}
